@@ -1,11 +1,11 @@
-## Script
-```lua
-loadstring(game:HttpGet('https://raw.githubusercontent.com/wally-rblx/funky-friday-autoplay/main/main.lua'))()
-```
-
 # Funky Friday Autoplayer
 Autoplayer script for https://www.roblox.com/games/6447798030<br>
 Open source, feel free to modify it to suit your needs!
+
+## Script:
+```lua
+loadstring(game:HttpGet('https://raw.githubusercontent.com/wally-rblx/funky-friday-autoplay/main/main.lua'))()
+```
 
 ## Reporting bugs
 You can open up an issue on the GitHub (although I don't check it very much) or you may message me on v3rmillion / Discord.
